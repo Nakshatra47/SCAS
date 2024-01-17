@@ -13,11 +13,12 @@ Smart Cab Allocation System is a web app for mobile screens and web pages using 
 
 ## Screenshots
 
-![image](https://github.com/Nakshatra47/SCAS/assets/87568007/34c0d218-a4b4-4c61-8e38-fd052b8055ee)
-
-
 
 ![image](https://github.com/Nakshatra47/SCAS/assets/87568007/f95766c4-bb29-4173-9c5d-7a0a3e228427)
+
+
+
+![image](https://github.com/Nakshatra47/SCAS/assets/87568007/34c0d218-a4b4-4c61-8e38-fd052b8055ee)
 
 
 
