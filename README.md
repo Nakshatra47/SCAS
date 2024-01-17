@@ -9,7 +9,10 @@ Some notable features of the project are-
 -Displays the nearest cab amongst all the available cabs using Haversine Formula
 
 <br/>
-![image](https://github.com/Nakshatra47/SCAS/assets/87568007/1f2076fc-81c0-42dd-9103-f5393d0fb943)
+![image](https://github.com/Nakshatra47/SCAS/assets/87568007/bb09f73b-ee53-423d-8d86-c37189da971c)
+
+
+
 
 ![image](https://github.com/Nakshatra47/SCAS/assets/87568007/72412fd1-df5f-4aa5-ac55-c544a0e15ce9)
 
