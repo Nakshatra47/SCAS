@@ -70,8 +70,8 @@ const RideSelector = ({ pickup, dropoff, cabCoordinates }) => {
   const deg2rad = (deg) => {
     return deg * (Math.PI / 180);
   };
-console.log("Invalid cabCoordinates:",nearestCab);
-console.log(minDistance);
+//console.log("Invalid cabCoordinates:",nearestCab);
+//console.log(minDistance);
   return (
     <Wrapper>
       <Title>Choose a ride, or swipe up for more</Title>
