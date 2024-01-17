@@ -1,22 +1,20 @@
 # Smart Cab Allocation System
-Web app designed specifically for mobile screens using NextJs.<br/><br/>
-Some notable features of the project are-
-- Developed using React and NextJs
-- Styling done by TailwindCSS
-- Google sign-in provided using Firebase
-- Used Mapbox API to display the map
 
--Shows directions from Pickup to Dropoff location
+Smart Cab Allocation System is a web app for mobile screens and web pages using Next.js. It helps users book cabs efficiently by displaying the nearest available cabs on a map and providing directions from the pickup to the dropoff location.
 
--Displays the nearest cab amongst all the available cabs using Haversine Formula
+## Features
 
-<br/>
-![image](https://github.com/Nakshatra47/SCAS/assets/87568007/bb09f73b-ee53-423d-8d86-c37189da971c)
+- Developed using React and Next.js
+- Styling done with Tailwind CSS
+- Google sign-in is provided using Firebase
+- Map display powered by Mapbox API
+- Shows directions from Pickup to Dropoff location
+- Displays the nearest cab using the Haversine Formula
 
+## Screenshots
 
+![Screenshot 1](https://github.com/Nakshatra47/SCAS/assets/screenshots/screenshot1.png)
 
-
-![image](https://github.com/Nakshatra47/SCAS/assets/87568007/72412fd1-df5f-4aa5-ac55-c544a0e15ce9)
-
+![Screenshot 2](https://github.com/Nakshatra47/SCAS/assets/screenshots/screenshot2.png)
 
 
