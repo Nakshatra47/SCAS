@@ -3,9 +3,11 @@ Web app designed specifically for mobile screens using NextJs.<br/><br/>
 Some notable features of the project are-
 - Developed using React and NextJs
 - Styling done by TailwindCSS
-- Google sign in provided using Firebase
-- Used Mapbox API to display map
+- Google sign-in provided using Firebase
+- Used Mapbox API to display the map
+
 -Shows directions from Pickup to Dropoff location
+
 -Displays the nearest cab amongst all the available cabs using Haversine Formula
 
 <br/>
